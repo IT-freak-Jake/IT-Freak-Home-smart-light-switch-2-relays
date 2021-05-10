@@ -1,5 +1,5 @@
 # IT Freak Home smart light switch (2 relays)
-DIY, smart and relatively cheap light switch.
+DIY, smart and relatively cheap double light switch.
 
 ## -What IT Freak Home exactly is?
 It was a private project of DIY smart home devices which I decide to publish as an open-source project.<br/>
